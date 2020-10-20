@@ -1,7 +1,7 @@
 #### Hello there :metal::
   
   🔭 I'm a Frontend developer, currently working with React, React Native and Angular 2+. I'm also graduated in Information Systems.
-  Currently working on [Brisanet Telecomunicações](https://bityli.com/8PpyA).
+  Currently working on [Brisanet Telecomunicações](https://www.brisanet.com.br/).
  
 - 🌱 I’m currently learning some things about Machine Learning, so maybe in the future I can try new things...
 
