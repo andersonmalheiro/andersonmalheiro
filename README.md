@@ -9,3 +9,6 @@
   - :email: [Email](mailto:malheiroanderson97@gmail.com)
   - :briefcase: [Linkedin](https://www.linkedin.com/in/andersonmalheiro)
   - :bird: [Twitter](https://twitter.com/a_malheiro97)
+
+### My stats
+![andersonmalheiro github stats](https://github-readme-stats.vercel.app/api?username=andersonmalheiro&theme=dark&icon_color=88ff78&show_icons=true&count_private=true)
