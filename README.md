@@ -28,8 +28,7 @@
 <hr>
 
 <h3>:bar_chart: Stats</h3>
-| <a href="https://github.com/andersonmalheiro/andersonmalheiro">
+<a href="https://github.com/andersonmalheiro/andersonmalheiro">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=andersonmalheiro&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" />
-</a> |
-<a href="https://github.com/andersonmalheiro/andersonmalheiro"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmalheiro&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
+</a>
+<a href="https://github.com/andersonmalheiro/andersonmalheiro"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmalheiro&layout=compact&theme=tokyonight&hide_border=true" /></a>
