@@ -29,7 +29,7 @@
 
 <h3>:bar_chart: Stats</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=andersonmalheiro&theme=dark&icon_color=88ff78&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andersonmalheiro&theme=tokyonight&show_icons=true&count_private=true" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmalheiro&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmalheiro&layout=compact&theme=tokyonight" />
 </p>
