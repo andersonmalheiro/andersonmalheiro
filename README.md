@@ -28,8 +28,8 @@
 <hr>
 
 <h3>:bar_chart: Stats</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=andersonmalheiro&theme=tokyonight&show_icons=true&count_private=true" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmalheiro&layout=compact&theme=tokyonight" />
-</p>
+| <a href="https://github.com/andersonmalheiro/andersonmalheiro">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=andersonmalheiro&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" />
+</a> |
+<a href="https://github.com/andersonmalheiro/andersonmalheiro"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmalheiro&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
